@@ -1,0 +1,16 @@
+{
+  "name": "meetign",
+  "version": "1.0.0",
+  "description": "This repository contains a minimal meeting planner template and related resources. See `meeting/README.md` for usage details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "node-fetch": "^3.3.2"
+  }
+}
