@@ -9,4 +9,4 @@ __pycache__/
 meeting/v1/meeting_planner_template.xlsx
 node_modules/
 package-lock.json
-
+server/node_modules/
