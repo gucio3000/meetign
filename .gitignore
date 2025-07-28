@@ -8,3 +8,4 @@ __pycache__/
 # Generated files
 meeting/v1/meeting_planner_template.xlsx
 
+server/node_modules/
