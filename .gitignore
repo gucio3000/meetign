@@ -7,4 +7,6 @@ __pycache__/
 
 # Generated files
 meeting/v1/meeting_planner_template.xlsx
+node_modules/
+package-lock.json
 
